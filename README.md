@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Jean Orsini
+# Jean Orsini
 
 🚀 Desejo de criar, projetar e transformar ideias em ações que façcam a diferença.  
 🧠 Profissional e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.  

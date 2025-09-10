@@ -44,4 +44,4 @@
 > depois um hábito até te tornares quem és.”  
 > — Jean Orsini
 
-Obrigado por visitar, volte sempre.
+👋 Obrigado por visitar, volte sempre.

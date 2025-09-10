@@ -1,10 +1,5 @@
-# Jean Orsini
+# Olá, me chamo Jean Orsini.
 
-🚀 Desejo de criar, projetar e transformar ideias em ações que façcam a diferença.  
-🧠 Profissional e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.  
-💼 Atualmente focado em projetos digitais com propósito - landing pages, aplicativos e sites.
-
----
 
 ## 💡 Sobre mim
 
@@ -12,6 +7,9 @@
 - 🧩 Estudando **HTML, CSS, JavaScript e Java** todos os dias (Pelo menos 4h de estudo) e aplicando em projetos reais.
 - 🛠️ Interessado em tecnologia acessível, automatização de tarefas, com o sonho de ajudar no crescimento de empresas.
 - 📍 Estou em busca de soluções que a longo prazo possam ajudar a todos globalmente 🌍.
+- 🚀 Desejo de criar, projetar e transformar ideias em ações que façcam a diferença.
+- 🧠 Profissional e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.
+- 💼 Atualmente focado em projetos digitais com propósito - landing pages, aplicativos e sites.
 
 ---
 

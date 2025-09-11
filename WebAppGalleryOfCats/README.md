@@ -10,6 +10,13 @@ CatPhotoApp apresenta uma página bem organizada, com seções exibindo fotos de
 
 - HTML5
 
+https://jeeanorsini.github.io/Portfolio/WebAppGalleryOfCats
+
+## Reproduzindo o projeto
+
+1. Caso queira facilidade em reproduzir clique aqui => [WebAppGalleryOfCats](https://jeeanorsini.github.io/Portfolio/WebAppGalleryOfCats)
+2. Caso queira o código para efetuar melhorias fique a vontade em clonar meu código. => [Clonando Repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
+
 ## 💡 Funcionalidades
 
 - Estrutura semântica usando `<main>`, `<section>`, `<header>`, `<footer>` e elementos de texto (`<h1>`, `<h2>`, `<p>`)  

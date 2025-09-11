@@ -1,4 +1,4 @@
-# Jogo da Memória Estilo Genius - Versão Aprimorada
+# Genius - Versão Aprimorada
 
 Este é um projeto de jogo da memória inspirado no clássico **Genius**, desenvolvido inicialmente como parte do curso "Criando seu Jogo de Memória Estilo Genius" ministrado por **Gabriela Pinheiro**, uma das tutoras da **DIO**.
 

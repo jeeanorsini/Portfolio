@@ -1,36 +1,36 @@
-# CatPhotoApp — Basic HTML Practice
+# CatPhotoApp — Prática Básica de HTML
 
-This is a simple project created to demonstrate and practice essential HTML concepts, using semantic structure, links, images, and forms.
+Este é um projeto simples criado para demonstrar e praticar conceitos essenciais de HTML, usando estrutura semântica, links, imagens e formulários.
 
-## Description
+## 📝 Descrição
 
-CatPhotoApp features a well-organized page with sections displaying cat photos, lists of feline preferences, and an interactive form for users to submit information about their cats.
+CatPhotoApp apresenta uma página bem organizada, com seções exibindo fotos de gatos, listas de preferências felinas e um formulário interativo para os usuários enviarem informações sobre seus gatos.
 
-## Technologies Used
+## 🚀 Tecnologias Utilizadas
 
 - HTML5
 
-## Features
+## 💡 Funcionalidades
 
-- Semantic structure using `<main>`, `<section>`, `<header>`, `<footer>`, and text elements (`<h1>`, `<h2>`, `<p>`)
-- External and internal links with `<a>`
-- Images with accessible descriptions (`alt`)
-- Ordered and unordered lists (`<ol>`, `<ul>`, `<li>`)
-- Use of `<figure>` and `<figcaption>` for image captions
-- Form with text fields, radio buttons, and checkboxes for user interaction
+- Estrutura semântica usando `<main>`, `<section>`, `<header>`, `<footer>` e elementos de texto (`<h1>`, `<h2>`, `<p>`)  
+- Links internos e externos com `<a>`  
+- Imagens com descrições acessíveis (`alt`)  
+- Listas ordenadas e não ordenadas (`<ol>`, `<ul>`, `<li>`)  
+- Uso de `<figure>` e `<figcaption>` para legendas de imagens  
+- Formulário com campos de texto, botões de rádio e checkboxes para interação do usuário  
 
-## How to Use
+## 📦 Como Usar
 
-1. Clone or download this repository.
-2. Open the `index.html` file in your web browser.
-3. Explore the code to understand the HTML structure and implemented features.
+1. Clone ou baixe este repositório.  
+2. Abra o arquivo `index.html` em seu navegador.  
+3. Explore o código para entender a estrutura HTML e as funcionalidades implementadas.  
 
-## Purpose
+## 🎯 Objetivo
 
-This project is part of a hands-on from the [freeCodeCamp](https://www.freecodecamp.org/) HTML course, focusing on creating organized and accessible web pages.
+Este projeto faz parte da prática do curso de HTML do [freeCodeCamp](https://www.freecodecamp.org/), com foco na criação de páginas web organizadas e acessíveis.
 
 ---
 
-**Made by Jean Orsini — Web Developer in training**  
-Technology enthusiast.
+**Feito por Jean Orsini — Desenvolvedor Web em treinamento**  
+Entusiasta de tecnologia.  
 📱 Instagram: [@jeeanorsini](https://instagram.com/jeeanorsini)

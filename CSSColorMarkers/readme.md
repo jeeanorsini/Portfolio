@@ -11,6 +11,11 @@ O objetivo deste projeto é simular visualmente marcadores coloridos (vermelho, 
 - HTML5  
 - CSS3 (gradientes, box-shadow, display, classes reutilizáveis)
 
+## Reproduzindo o projeto
+
+1. Caso queira facilidade em reproduzir clique aqui => [CSSColorMarkers](https://jeeanorsini.github.io/Portfolio/CSSColorMarkers/)
+2. Caso queira o código para efetuar melhorias fique a vontade em clonar meu código. => [Clonando Repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
+
 ## 💡 Funcionalidades & Conceitos Aplicados
 
 - Organização usando estruturas de classes reutilizáveis  

@@ -40,4 +40,4 @@ Este projeto foi uma oportunidade de aprender conceitos essenciais de programaç
 
 ---
 
-Projeto desenvolvido oficialmente por **[Gabriela Pinheiro - DIO](https://www.linkedin.com/in/gabrielapinheiro129/)**, cujo criador do game se chama **[Ralph H. Baer]**. O mesmo teve o código refeito, adaptado, e utilizado por mim **[Jean Orsini]** como parte dos meus estudos e práticas em desenvolvimento web.
+Projeto desenvolvido oficialmente por **[Gabriela Pinheiro - DIO](https://www.linkedin.com/in/gabrielapinheiro129/)**, cujo criador do game se chama **[Ralph H. Baer]**. O mesmo teve o código refeito, adaptado, e utilizado por mim **[Jean Orsini](https://www.linkedin.com/in/jeeanorsini/)** como parte dos meus estudos e práticas em desenvolvimento web.

@@ -1,37 +1,37 @@
 # CSS Color Markers 🎨
 
-This project was developed to practice fundamental CSS concepts such as gradients, shadows, block alignment, and semantic HTML5 structure.
+Este projeto foi desenvolvido para praticar conceitos fundamentais de CSS, como gradientes, sombras, alinhamento de blocos e estrutura semântica do HTML5.
 
-## 📝 Description
+## 📝 Descrição
 
-The goal of this project is to visually simulate colored markers (red, green, and blue) using only HTML and CSS — no external images, just pure code.
+O objetivo deste projeto é simular visualmente marcadores coloridos (vermelho, verde e azul) usando apenas HTML e CSS — sem imagens externas, apenas código puro.
 
-## 🚀 Technologies Used
+## 🚀 Tecnologias Utilizadas
 
 - HTML5  
-- CSS3 (gradients, box-shadow, display, reusable classes)
+- CSS3 (gradientes, box-shadow, display, classes reutilizáveis)
 
-## 💡 Features & Concepts Applied
+## 💡 Funcionalidades & Conceitos Aplicados
 
-- Organization using reusable class structures  
-- Use of `inline-block` for horizontal layout  
-- Gradients created with `linear-gradient`  
-- Visual effects with `box-shadow`  
-- Color management using `rgb`, `hex`, and `hsl`  
-- Centered layout with `margin: auto` and `text-align`  
+- Organização usando estruturas de classes reutilizáveis  
+- Uso de `inline-block` para layout horizontal  
+- Gradientes criados com `linear-gradient`  
+- Efeitos visuais com `box-shadow`  
+- Gerenciamento de cores usando `rgb`, `hex` e `hsl`  
+- Layout centralizado com `margin: auto` e `text-align`  
 
-## 📦 How to Run
+## 📦 Como Executar
 
-1. Clone or download this repository.  
-2. Open the `index.html` file in a modern browser.  
-3. Watch the magic happen — color markers built with clean code.  
+1. Clone ou baixe este repositório.  
+2. Abra o arquivo `index.html` em um navegador moderno.  
+3. Veja a mágica acontecer — marcadores coloridos construídos com código limpo.  
 
-## 🎯 Purpose
+## 🎯 Objetivo
 
-This project is part of a hands-on practice from the [freeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design course.  
-The goal is to build visual design skills using pure CSS.
+Este projeto faz parte da prática do curso [Responsive Web Design](https://www.freecodecamp.org/) do freeCodeCamp.  
+O objetivo é desenvolver habilidades de design visual usando apenas CSS.
 
 ---
 
-Tech enthusiast.  
+Entusiasta de tecnologia.  
 📱 Instagram: [@jeeanorsini](https://instagram.com/jeeanorsini)

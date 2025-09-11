@@ -9,20 +9,23 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    padding: 10px; /* evita que toque nas bordas da tela */
+    box-sizing: border-box;
 }
 
 .genius {
     display: grid;
-    grid-template-areas: 'green red'
-    'yellow blue';
-    grid-gap: 10px;
+    grid-template-areas: 
+        "green red"
+        "yellow blue";
+    grid-gap: 10px; /* relativo à largura da tela */
     border: 1px solid #000000;
     background-color: #000000;
-    border-radius: 100%;
-    width: 700px;
-    height: 700px;
-    
+    border-radius: 50%; /* 100% é o mesmo que 50% em grid quadrado */
+    width: 90vw; /* ocupa 90% da largura da tela */
+    max-width: 700px; /* não cresce demais em telas grandes */
+    height: 90vw; 
+    max-height: 700px;
 }
 
 .blue {

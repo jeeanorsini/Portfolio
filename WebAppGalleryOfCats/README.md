@@ -10,8 +10,6 @@ CatPhotoApp apresenta uma página bem organizada, com seções exibindo fotos de
 
 - HTML5
 
-https://jeeanorsini.github.io/Portfolio/WebAppGalleryOfCats
-
 ## Reproduzindo o projeto
 
 1. Caso queira facilidade em reproduzir clique aqui => [WebAppGalleryOfCats](https://jeeanorsini.github.io/Portfolio/WebAppGalleryOfCats)

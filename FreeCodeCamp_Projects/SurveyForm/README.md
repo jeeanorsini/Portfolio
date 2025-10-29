@@ -15,7 +15,7 @@ O Formulário de Pesquisa implementa todas as `user stories` obrigatórias do fr
 ## ✨ Demonstração e Reprodução
 
 1.  **Acesso Direto (Demo ao Vivo):**
-    [👉 CLIQUE AQUI PARA VER O PROJETO AO VIVO](https://jeeanorsini.github.io/Portfolio/SurveyForm/)
+    [👉 CLIQUE AQUI PARA VER O PROJETO AO VIVO](https://jeeanorsini.github.io/Portfolio/FreeCodeCamp_Projects/SurveyForm/)
 
 2.  **Clonando o Repositório para Uso:**
     O projeto é estático e pode ser facilmente replicado.
@@ -25,7 +25,7 @@ O Formulário de Pesquisa implementa todas as `user stories` obrigatórias do fr
     git clone [https://github.com/jeeanorsini/Portfolio.git](https://github.com/jeeanorsini/Portfolio.git) 
     
     # Navegue até a pasta do projeto específico
-    cd Portfolio/SurveyForm
+    cd Portfolio/FreeCodeCamp_Projects/SurveyForm
     ```
 
 ## 💡 Funcionalidades e Elementos Implementados

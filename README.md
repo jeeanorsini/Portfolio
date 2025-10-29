@@ -5,7 +5,8 @@
 
 - 🎯 Em missão para migrar de área através de muito esforço, e dedicação.
 - 🧩 Estudando **HTML, CSS, JavaScript e Java** todos os dias (Pelo menos 4h de estudo) e aplicando em projetos reais.
-- 🛠️ Interessado em tecnologia acessível, automatização de tarefas, com o sonho de ajudar no crescimento de empresas.
+- 📚 Pretendo zerar todos os Cursos da FreeCodeCamp, Cs50Edx, a trilha TheOdinProject e todos os Projetos avançados da DIO.
+- 🛠️ Interessado em tecnologia acessível, infraestrutura, automatização de tarefas, automatização industrial, e com o sonho de ajudar no crescimento de empresas.
 - 📍 Estou em busca de soluções que a longo prazo possam ajudar a todos globalmente 🌍.
 - 🚀 Desejo de criar, projetar e transformar ideias em ações que façcam a diferença.
 - 🧠 Profissional e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.

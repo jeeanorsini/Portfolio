@@ -13,7 +13,7 @@ Camper Cafe apresenta um menu estilizado para uma cafeteria fictícia, com seç�
 
 ## Reproduzindo o projeto
 
-1. Caso queira facilidade em reproduzir clique aqui => [CamperCafe](https://jeeanorsini.github.io/Portfolio/CamperCafe)
+1. Caso queira facilidade em reproduzir clique aqui => [CamperCafe](https://jeeanorsini.github.io/Portfolio/FreeCodeCamp_Projects/CamperCafe)
 2. Caso queira o código para efetuar melhorias fique a vontade em clonar meu código. => [Clonando Repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 ## 💡 Funcionalidades

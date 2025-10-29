@@ -36,6 +36,12 @@ Este projeto faz parte da prática do curso de HTML do [freeCodeCamp](https://ww
 
 ---
 
-**Feito por Jean Orsini — Desenvolvedor Web em treinamento**  
-Entusiasta de tecnologia.  
-📱 Instagram: [@jeeanorsini](https://instagram.com/jeeanorsini)
+**Feito por Jean Orsini — Desenvolvedor Web**
+
+* **Portfólio:** [Acesse meu Portfólio](https://jeeanorsini.github.io/Portfolio/)
+* **GitHub:** [Siga-me no GitHub](https://github.com/jeeanorsini)
+* **LinkedIn:** [Conecte-se no LinkedIn](https://www.linkedin.com/in/jeeanorsini/)
+
+<div align="center">
+    Se este projeto te ajudou, deixe uma ⭐ no repositório!
+</div>

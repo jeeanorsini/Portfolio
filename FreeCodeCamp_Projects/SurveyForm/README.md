@@ -63,7 +63,7 @@ Este projeto faz parte da prática do curso **[Responsive Web Design](https://ww
 
 * **Portfólio:** [Acesse meu Portfólio](https://jeeanorsini.github.io/Portfolio/)
 * **GitHub:** [Siga-me no GitHub](https://github.com/jeeanorsini)
-* **LinkedIn:** [Conecte-se no LinkedIn](https://www.linkedin.com/in/jeanorsini/)
+* **LinkedIn:** [Conecte-se no LinkedIn](https://www.linkedin.com/in/jeeanorsini/)
 
 <div align="center">
     Se este projeto te ajudou, deixe uma ⭐ no repositório!

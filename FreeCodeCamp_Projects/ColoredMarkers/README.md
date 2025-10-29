@@ -13,7 +13,7 @@ O objetivo deste projeto é simular visualmente marcadores coloridos (vermelho, 
 
 ## Reproduzindo o projeto
 
-1. Caso queira facilidade em reproduzir clique aqui => [CSSColorMarkers](https://jeeanorsini.github.io/Portfolio/FreeCodeCamp_Projects/CSSColorMarkers/)
+1. Caso queira facilidade em reproduzir clique aqui => [ColoredMarkers](https://jeeanorsini.github.io/Portfolio/FreeCodeCamp_Projects/ColoredMarkers/)
 2. Caso queira o código para efetuar melhorias fique a vontade em clonar meu código. => [Clonando Repositório](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository).
 
 ## 💡 Funcionalidades & Conceitos Aplicados

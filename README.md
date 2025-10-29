@@ -3,14 +3,18 @@
 
 ## 💡 Sobre mim
 
-- 🎯 Em missão para migrar de área através de muito esforço, e dedicação.
-- 🧩 Estudando **HTML, CSS, JavaScript e Java** todos os dias (Pelo menos 4h de estudo) e aplicando em projetos reais.
-- 📚 Pretendo zerar todos os Cursos da FreeCodeCamp, Cs50Edx, a trilha TheOdinProject e todos os Projetos avançados da DIO.
-- 🛠️ Interessado em tecnologia acessível, infraestrutura, automatização de tarefas, automatização industrial, e com o sonho de ajudar no crescimento de empresas.
-- 📍 Estou em busca de soluções que a longo prazo possam ajudar a todos globalmente 🌍.
-- 🚀 Desejo de criar, projetar e transformar ideias em ações que façcam a diferença.
-- 🧠 Profissional e eterno aprendiz nas áreas de tecnologia, marketing e desenvolvimento web.
-- 💼 Atualmente focado em projetos digitais com propósito - landing pages, aplicativos e sites.
+- 🎯 Migrando de área com foco e dedicação.
+- 🧩 Estudando HTML, CSS, JavaScript e Java todos os dias.
+- ⏱️ Colocando pelo menos 4h diárias em projetos reais.
+- 📚 Concluindo cursos da FreeCodeCamp, CS50Edx e TheOdinProject.
+- 🎓 Desenvolvendo projetos avançados na DIO.
+- 📍 Buscando soluções que impactem o mundo 🌍.
+- 🚀 Transformando ideias em ações concretas.
+- 🧠 Aprendiz contínuo em tecnologia e marketing.
+- 💼 Focado em projetos digitais com propósito.
+- 🌐 Criando landing pages, apps e sites funcionais.
+- 🛠️ Interessado em automação e infraestrutura tecnológica.
+- ⚡ Otimizando processos e aumentando eficiência.
 
 ---
 

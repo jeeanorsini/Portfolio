@@ -1,6 +1,6 @@
 # Trilha HTML - Dio.me
 ## Módulo 01 - Primeiros passos com HTML
-Link do ao vivo: [Projeto 1(https://jeeanorsini.github.io/Portfolio/Dio_Projects/Trilha%20de%20Programa%C3%A7%C3%A3o/HTML/Projeto1/)
+Link do ao vivo: [Projeto 1](https://jeeanorsini.github.io/Portfolio/Dio_Projects/Trilha%20de%20Programa%C3%A7%C3%A3o/HTML/Projeto1/)
 
 A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
 

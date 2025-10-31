@@ -1,0 +1,101 @@
+html, body {
+    margin: 0;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: aqua;
+    padding: 10px 20px 0px;
+}
+.header {
+    background-color: rgb(5, 108, 108);
+    min-height: 150px;
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(99, 56, 240);
+    min-height: 150px;
+    color: white;
+    padding: 20px;
+}
+
+.menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu ul li {
+    margin-bottom: 10px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.menu ul li a:hover {
+    color: #007bff;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+table th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+form input, form textarea, form button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+form button {
+    width: auto;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+form button[type="reset"] {
+    background-color: #6c757d;
+}
+
+form button:hover {
+    opacity: 0.8;
+}

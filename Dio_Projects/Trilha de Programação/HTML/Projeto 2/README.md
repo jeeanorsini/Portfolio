@@ -1,72 +1,145 @@
-Sobre o Desafio
+# Projeto 2 - Site de Clínica Médica
 
-Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
+## 📋 Sobre o Desafio
 
-    Formulários
-    Estruturação e formatação de texto
-    Mídias
-    Tabelas
+Este desafio tem como objetivo criar um site "quase" completo, com tudo o que foi visto no módulo.
 
-Além de outros recursos falados nas aulas!
-Instruções
+### Temas Abordados
+- ✅ Formulários
+- ✅ Estruturação e formatação de texto
+- ✅ Mídias
+- ✅ Tabelas
+- ✅ Outros recursos das aulas
 
-    Você deve criar um site de uma clínica médica (você escolhe a especialidade)
-    Este site deve conter o seguinte menu de navegação:
-        Página Principal
-        Sobre a clínica
-        Horário de Atendimento
-        Contato
-    Deve, obrigatoriamente, utilizar todas os assuntos abordados nas aulas.
+---
 
-Abaixo como cada página deve ser criada e estruturada.
-Estrutura das páginas
+## 🎯 Instruções Gerais
 
-Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo template.html para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
+Você deve criar um site de uma **clínica médica** (você escolhe a especialidade).
 
-Estrutura
+### Menu de Navegação Obrigatório
+1. Página Principal
+2. Sobre a clínica
+3. Horário de Atendimento
+4. Contato
 
-* No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma.
+### Requisitos
+- Utilizar **todos** os assuntos abordados nas aulas
+- Seguir o padrão de estrutura definido
+- Utilizar o arquivo `template.html` como base
 
-No Menu, ficará localizado o menu de navegação (ah vá!), no Header de cada página ficará uma imagem, no Footer informações de contato, e o Content é o conteúdo de cada página.
-Página Principal
+---
 
-    Deve ter uma imagem no Header.
-    Em Content uma breve descrição sobre a clínica.
-    Menu e Footer padrões em todas as páginas.
+## 🏗️ Estrutura das Páginas
 
-Sobre a clínica
+Todas as páginas seguem um padrão pré-definido com a seguinte estrutura:
 
-    Deve ter uma imagem diferente no Header.
-    Em Content um texto falando sobre a clínica.
-    Menu e Footer padrões em todas as páginas.
+```
+┌─────────────────────────────┐
+│          MENU               │
+├─────────────────────────────┤
+│         HEADER              │
+│        (Imagem)             │
+├─────────────────────────────┤
+│                             │
+│         CONTENT             │
+│      (Conteúdo da página)   │
+│                             │
+├─────────────────────────────┤
+│         FOOTER              │
+│   (Informações de contato)  │
+└─────────────────────────────┘
+```
 
-Horário de Atendimento
+**Componentes:**
+- **Menu:** Navegação do site
+- **Header:** Imagem da página
+- **Content:** Conteúdo específico de cada página
+- **Footer:** Informações de contato (padrão em todas as páginas)
 
-    Deve ter uma imagem diferente no Header.
-    Em Content um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+---
 
-Serviços 	Segunda a Sexta 	Sábados 	Feriados
-Clínica geral 	08h - 19h 	08h - 14h 	08h - 14h
-Psicologia 	08h - 19h 	08h - 14h 	08h - 14h
-Pediatria 	08h - 19h 	08h - 18h 	-
-Oftalmologia 	08h - 19h 	08h - 18h 	-
-			
+## 📄 Detalhamento das Páginas
 
-    Menu e Footer padrões em todas as páginas.
+### 1️⃣ Página Principal
 
-Contato
+**Header:**
+- Uma imagem
 
-    Deve ter uma imagem diferente no Header.
+**Content:**
+- Breve descrição sobre a clínica
 
-    Em Content deve ter:
-        Os telefones de contato (celular e whatsapp)
-        Endereço completo da clínica
-        Um Iframe com o Google Maps apontando o endereço da clínica
-        Um formulário de contato com:
-            Nome (type="text")
-            E-mail (type="email")
-            Assunto (type="text")
-            Mensagem (textarea)
-            Botões de envias e limpar formulário
+**Componentes Padrão:**
+- Menu
+- Footer
 
-    Menu e Footer padrões em todas as páginas.
+---
+
+### 2️⃣ Sobre a Clínica
+
+**Header:**
+- Uma imagem diferente
+
+**Content:**
+- Texto falando sobre a clínica
+
+**Componentes Padrão:**
+- Menu
+- Footer
+
+---
+
+### 3️⃣ Horário de Atendimento
+
+**Header:**
+- Uma imagem diferente
+
+**Content:**
+- Pequeno texto sobre os serviços
+- Tabela de horários e preços
+
+**Tabela de Horários:**
+
+| Serviços | Segunda a Sexta | Sábados | Feriados |
+|----------|----------------|---------|----------|
+| Clínica geral | 08h - 19h | 08h - 14h | 08h - 14h |
+| Psicologia | 08h - 19h | 08h - 14h | 08h - 14h |
+| Pediatria | 08h - 19h | 08h - 18h | - |
+| Oftalmologia | 08h - 19h | 08h - 18h | - |
+
+**Componentes Padrão:**
+- Menu
+- Footer
+
+---
+
+### 4️⃣ Contato
+
+**Header:**
+- Uma imagem diferente
+
+**Content:**
+- Telefones de contato (celular e whatsapp)
+- Endereço completo da clínica
+- Iframe com Google Maps (endereço da clínica)
+- Formulário de contato
+
+**Formulário de Contato:**
+- **Nome** - `type="text"`
+- **E-mail** - `type="email"`
+- **Assunto** - `type="text"`
+- **Mensagem** - `textarea`
+- **Botões:** Enviar e Limpar formulário
+
+**Componentes Padrão:**
+- Menu
+- Footer
+
+---
+
+## 💡 Observações
+
+- O template possui algumas cores apenas para melhor visualização
+- Fique à vontade para alterar da melhor forma
+- Como CSS não foi aprendido ainda, utilize o `template.html` como base
+- Menu e Footer devem ser **idênticos** em todas as páginas

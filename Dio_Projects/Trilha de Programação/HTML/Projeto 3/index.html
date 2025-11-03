@@ -1,59 +1,193 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre - Clínica Saúde Total</title>
-    <link rel="stylesheet" href="base.css">
+    <title>Inteligência Artificial - Wikipedia</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <div class="wrapper">
-        <div class="menu">
-            <ul>
-                <li><a href="index.html">Página Principal</a></li>
-                <li><a href="sobre.html">Sobre a Clínica</a></li>
-                <li><a href="horario.html">Horário de Atendimento</a></li>
-                <li><a href="contato.html">Contato</a></li>
-            </ul>
-        </div>
 
-        <div class="main">
-            <div class="header">
-                <img src="https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="100%" height="150px">
-            </div>
-    
-            <div class="content">
-                <h1>Sobre a Clínica Saúde Total</h1>
-                <p>Fundada em 2010, a <strong>Clínica Saúde Total</strong> nasceu com o propósito de oferecer atendimento médico completo e integrado para toda a família. Ao longo dos anos, nos tornamos referência em cuidados de saúde na região.</p>
-                
-                <h2>Nossa História</h2>
-                <p>Começamos com uma pequena equipe de 5 profissionais e hoje contamos com mais de 30 especialistas em diversas áreas da medicina. Nossa trajetória é marcada pelo compromisso com a qualidade e inovação nos serviços prestados.</p>
-                
-                <h2>Missão, Visão e Valores</h2>
-                <h3>Missão</h3>
-                <p>Proporcionar atendimento médico de excelência, com humanização e tecnologia, promovendo a saúde e o bem-estar dos nossos pacientes.</p>
-                
-                <h3>Visão</h3>
-                <p>Ser reconhecida como a melhor opção em cuidados de saúde integral pela qualidade dos serviços e satisfação dos pacientes.</p>
-                
-                <h3>Valores</h3>
-                <ul>
-                    <li>Ética e transparência</li>
-                    <li>Compromisso com a excelência</li>
-                    <li>Humanização no atendimento</li>
-                    <li>Inovação constante</li>
-                    <li>Responsabilidade social</li>
-                </ul>
-            </div>
-    
-            <div class="footer">
-                <p><strong>Contato:</strong></p>
-                <p>Telefone: (11) 3456-7890 | WhatsApp: (11) 98765-4321</p>
-                <p>Endereço: Rua das Flores, 123 - Centro, São Paulo - SP</p>
-                <p>Email: contato@clinicasaudetotal.com.br</p>
-            </div>
+    <header role="banner">   
+        <div class="logo">
+            <img src="assets/images/logo.png" width="200" alt="Wikipedia - A enciclopédia livre"/>
         </div>
-    </div>
+        <nav class="bar" aria-label="Navegação principal">
+            <form role="search" aria-label="Buscar na Wikipedia">
+                <input type="search" placeholder="Pesquisar na Wikipedia" aria-label="Campo de pesquisa">
+                <button type="submit">Buscar</button>
+            </form>
+        </nav>
+    </header>
+
+    <main class="content" role="main">
+        <aside class="sidebar" role="complementary" aria-label="Menu lateral">
+            <h2>Tecnologia</h2>
+            <nav aria-label="Navegação por tópicos">
+                <ul>
+                    <li><a href="#introducao" aria-label="Ir para introdução">Introdução</a></li>
+                    <li><a href="#historia" aria-label="Ir para história">História</a></li>
+                    <li><a href="#tipos" aria-label="Ir para tipos de IA">Tipos de IA</a></li>
+                    <li><a href="#aplicacoes" aria-label="Ir para aplicações">Aplicações</a></li>
+                    <li><a href="#etica" aria-label="Ir para questões éticas">Questões Éticas</a></li>
+                    <li><a href="#futuro" aria-label="Ir para futuro">Futuro</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <article class="main" role="article">
+            <header>
+                <h1>Inteligência Artificial</h1>
+                <p class="subtitle">Da enciclopédia livre</p>
+            </header>
+
+            <section id="introducao" aria-labelledby="intro-heading">
+                <h2 id="intro-heading">Introdução</h2>
+                <p><strong>Inteligência Artificial (IA)</strong> é a inteligência similar à humana exibida por mecanismos ou software, além de também ser um campo de estudo acadêmico. O principal objetivo dos sistemas de IA é executar funções que, caso um ser humano fosse executar, seriam consideradas inteligentes.</p>
+                
+                <figure role="figure" aria-labelledby="ia-figcaption">
+                    <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Representação visual de redes neurais artificiais" width="400">
+                    <figcaption id="ia-figcaption">Representação de redes neurais, base de muitos sistemas de IA modernos</figcaption>
+                </figure>
+            </section>
+
+            <section id="historia" aria-labelledby="historia-heading">
+                <h2 id="historia-heading">História</h2>
+                <p>O termo "inteligência artificial" foi cunhado em 1956 por <strong>John McCarthy</strong> no <em>Dartmouth College</em>. Desde então, a área passou por vários períodos de otimismo seguidos por decepção e perda de financiamento (conhecidos como "invernos da IA"), mas após 2012, o campo experimentou um crescimento explosivo.</p>
+                
+                <table role="grid" aria-labelledby="tabela-historia">
+                    <caption id="tabela-historia">Marcos históricos da Inteligência Artificial</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">Ano</th>
+                            <th scope="col">Evento</th>
+                            <th scope="col">Significado</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1950</td>
+                            <td>Teste de Turing</td>
+                            <td>Alan Turing propõe teste para inteligência de máquinas</td>
+                        </tr>
+                        <tr>
+                            <td>1956</td>
+                            <td>Conferência de Dartmouth</td>
+                            <td>Nascimento oficial do campo de IA</td>
+                        </tr>
+                        <tr>
+                            <td>1997</td>
+                            <td>Deep Blue vs Kasparov</td>
+                            <td>Primeiro computador a vencer campeão mundial de xadrez</td>
+                        </tr>
+                        <tr>
+                            <td>2011</td>
+                            <td>Watson da IBM</td>
+                            <td>Sistema vence competidores humanos no Jeopardy!</td>
+                        </tr>
+                        <tr>
+                            <td>2016</td>
+                            <td>AlphaGo</td>
+                            <td>Primeiro programa a vencer campeão profissional de Go</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section id="tipos" aria-labelledby="tipos-heading">
+                <h2 id="tipos-heading">Tipos de Inteligência Artificial</h2>
+                
+                <h3>IA Fraca vs IA Forte</h3>
+                <p>A <strong>IA Fraca</strong> é projetada para realizar uma tarefa específica, enquanto a <strong>IA Forte</strong> possui habilidades cognitivas humanas gerais.</p>
+                
+                <h3>Machine Learning</h3>
+                <p>Subcampo da IA que se concentra no desenvolvimento de algoritmos que podem aprender e fazer previsões a partir de dados.</p>
+                
+                <h3>Deep Learning</h3>
+                <p>Usa redes neurais artificiais com múltiplas camadas para processar informações de maneira hierárquica.</p>
+            </section>
+
+            <section id="aplicacoes" aria-labelledby="aplicacoes-heading">
+                <h2 id="aplicacoes-heading">Aplicações Práticas</h2>
+                
+                <ul>
+                    <li><strong>Assistentes Virtuais:</strong> Siri, Alexa, Google Assistant</li>
+                    <li><strong>Reconhecimento de Imagem:</strong> Diagnóstico médico, segurança</li>
+                    <li><strong>Carros Autônomos:</strong> Sistemas de direção automática</li>
+                    <li><strong>Recomendações:</strong> Netflix, Amazon, Spotify</li>
+                    <li><strong>Processamento de Linguagem Natural:</strong> Tradutores, chatbots</li>
+                </ul>
+            </section>
+
+            <section id="etica" aria-labelledby="etica-heading">
+                <h2 id="etica-heading">Questões Éticas e Desafios</h2>
+                <p>A IA levanta importantes questões éticas sobre privacidade, viés algorítmico, deslocamento de trabalhadores e controle autônomo de sistemas letais.</p>
+                
+                <blockquote cite="https://www.un.org/en/about-us/universal-declaration-of-human-rights">
+                    <p>"O desenvolvimento da IA deve respeitar os direitos humanos fundamentais e promover o bem-estar da humanidade."</p>
+                    <footer>- Princípios da ONU para IA Ética</footer>
+                </blockquote>
+            </section>
+
+            <section id="futuro" aria-labelledby="futuro-heading">
+                <h2 id="futuro-heading">Futuro da Inteligência Artificial</h2>
+                <p>Especialistas preveem que a IA continuará a transformar setores como saúde, educação, transporte e manufatura. A pesquisa atual foca em:</p>
+                
+                <ol>
+                    <li>IA Explicável (XAI) - Tornar sistemas de IA mais transparentes</li>
+                    <li>IA Geral Artificial (AGI) - Sistemas com inteligência humana completa</li>
+                    <li>Neuro-símbolica - Combinação de aprendizado de máquina com raciocínio simbólico</li>
+                </ol>
+            </section>
+
+            <footer class="article-footer">
+                <p><small>Este artigo foi atualizado pela última vez em 15 de Novembro de 2023</small></p>
+            </footer>
+        </article>
+
+        <aside class="anchors" role="complementary" aria-label="Neste artigo">
+            <h2>Neste Artigo</h2>
+            <nav aria-label="Navegação interna do artigo">
+                <ul>
+                    <li><a href="#introducao" aria-label="Ir para introdução">Introdução</a></li>
+                    <li><a href="#historia" aria-label="Ir para história">História</a></li>
+                    <li><a href="#tipos" aria-label="Ir para tipos de IA">Tipos de IA</a></li>
+                    <li><a href="#aplicacoes" aria-label="Ir para aplicações">Aplicações</a></li>
+                    <li><a href="#etica" aria-label="Ir para questões éticas">Questões Éticas</a></li>
+                    <li><a href="#futuro" aria-label="Ir para futuro">Futuro</a></li>
+                </ul>
+            </nav>
+
+            <section class="info-box" aria-labelledby="info-heading">
+                <h3 id="info-heading">Informações Rápidas</h3>
+                <dl>
+                    <dt>Primeiro Uso do Termo:</dt>
+                    <dd>1956 - John McCarthy</dd>
+                    
+                    <dt>Campos Relacionados:</dt>
+                    <dd>Ciência da Computação, Matemática, Psicologia</dd>
+                    
+                    <dt>Aplicações Notáveis:</dt>
+                    <dd>Reconhecimento de voz, visão computacional, robótica</dd>
+                </dl>
+            </section>
+        </aside>
+    </main>
+
+    <footer class="footer" role="contentinfo">
+        <div class="footer-content">
+            <p>Esta página foi editada pela última vez em 15 de novembro de 2023</p>
+            <p>Texto disponível sob a <a href="#" aria-label="Licença Creative Commons">Licença Creative Commons Atribuição-CompartilhaIgual</a></p>
+            <nav aria-label="Links de rodapé">
+                <ul>
+                    <li><a href="#" aria-label="Política de privacidade">Política de privacidade</a></li>
+                    <li><a href="#" aria-label="Sobre a Wikipedia">Sobre a Wikipedia</a></li>
+                    <li><a href="#" aria-label="Avisos gerais">Avisos gerais</a></li>
+                    <li><a href="#" aria-label="Código de conduta">Código de conduta</a></li>
+                </ul>
+            </nav>
+        </div>
+    </footer>
 </body>
 </html>

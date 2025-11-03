@@ -1,0 +1,381 @@
+/* assets/css/style.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #202122;
+    background-color: #f8f9fa;
+}
+
+/* Header e Navegação */
+header[role="banner"] {
+    background: white;
+    border-bottom: 1px solid #a2a9b1;
+    padding: 0.5rem 0;
+}
+
+.logo {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.bar {
+    background-color: #f8f9fa;
+    padding: 0.75rem 1rem;
+    border-top: 1px solid #a2a9b1;
+    border-bottom: 1px solid #a2a9b1;
+}
+
+.bar form {
+    display: flex;
+    max-width: 500px;
+    margin: 0 auto;
+    gap: 0.5rem;
+}
+
+.bar input[type="search"] {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #a2a9b1;
+    border-radius: 2px;
+    font-size: 0.875rem;
+}
+
+.bar button {
+    padding: 0.5rem 1rem;
+    background: #36c;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    font-size: 0.875rem;
+}
+
+.bar button:hover {
+    background: #447ff5;
+}
+
+/* Layout Principal */
+.content {
+    max-width: 1440px;
+    margin: 1rem auto;
+    grid-gap: 2rem;
+    display: grid;
+    gap: 2rem;
+    grid-template-areas: "sidebar main anchors";
+    grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+/* Sidebar */
+.sidebar {
+    border-right: 1px solid #a2a9b1;
+    padding-right: 1rem;
+}
+
+.sidebar h2 {
+    font-size: 1.125rem;
+    color: #54595d;
+    border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.sidebar li {
+    margin-bottom: 0.5rem;
+}
+
+.sidebar a {
+    color: #0645ad;
+    text-decoration: none;
+    display: block;
+    padding: 0.25rem 0;
+}
+
+.sidebar a:hover {
+    color: #0b0080;
+    text-decoration: underline;
+}
+
+/* Conteúdo Principal */
+.main {
+    background: white;
+    padding: 2rem;
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.main h1 {
+    font-size: 1.875rem;
+    color: #000;
+    border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.subtitle {
+    color: #54595d;
+    font-style: italic;
+    margin-top: -1rem;
+    margin-bottom: 2rem;
+}
+
+.main h2 {
+    font-size: 1.5rem;
+    color: #000;
+    border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 0.25rem;
+    margin-top: 2rem;
+}
+
+.main h3 {
+    font-size: 1.25rem;
+    color: #54595d;
+    margin-top: 1.5rem;
+}
+
+.main p {
+    margin-bottom: 1rem;
+    text-align: justify;
+}
+
+/* Figuras */
+figure {
+    text-align: center;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background: #f8f9fa;
+    border: 1px solid #eaecf0;
+    border-radius: 2px;
+}
+
+figure img {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    font-size: 0.875rem;
+    color: #54595d;
+    margin-top: 0.5rem;
+    font-style: italic;
+}
+
+/* Tabelas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    background: white;
+}
+
+table th,
+table td {
+    border: 1px solid #a2a9b1;
+    padding: 0.75rem;
+    text-align: left;
+}
+
+table th {
+    background: #eaecf0;
+    font-weight: bold;
+}
+
+table caption {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+
+/* Listas */
+ul, ol {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+.main ul li,
+.main ol li {
+    margin-bottom: 0.5rem;
+}
+
+/* Citações */
+blockquote {
+    border-left: 4px solid #36c;
+    padding-left: 1rem;
+    margin: 1.5rem 0;
+    background: #f8f9fa;
+    padding: 1rem;
+}
+
+blockquote footer {
+    margin-top: 0.5rem;
+    font-style: italic;
+    color: #54595d;
+}
+
+/* Anchors */
+.anchors {
+    border-left: 1px solid #a2a9b1;
+    padding-left: 1rem;
+}
+
+.anchors h2 {
+    font-size: 1.125rem;
+    color: #54595d;
+    border-bottom: 1px solid #a2a9b1;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.anchors ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.anchors li {
+    margin-bottom: 0.5rem;
+}
+
+.anchors a {
+    color: #0645ad;
+    text-decoration: none;
+    display: block;
+    padding: 0.25rem 0;
+}
+
+.anchors a:hover {
+    color: #0b0080;
+    text-decoration: underline;
+}
+
+.info-box {
+    background: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    padding: 1rem;
+    margin-top: 1.5rem;
+    border-radius: 2px;
+}
+
+.info-box h3 {
+    margin-top: 0;
+    font-size: 1rem;
+    color: #000;
+}
+
+.info-box dl {
+    margin: 0;
+}
+
+.info-box dt {
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+.info-box dd {
+    margin-left: 0;
+    margin-bottom: 0.5rem;
+}
+
+/* Footer */
+.footer {
+    min-height: 100px;
+    border-top: 1px solid #a2a9b1;
+    background: #f8f9fa;
+    margin-top: 2rem;
+    padding: 1.5rem 0;
+}
+
+.footer-content {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    text-align: center;
+    color: #54595d;
+    font-size: 0.875rem;
+}
+
+.footer nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.footer nav a {
+    color: #0645ad;
+    text-decoration: none;
+}
+
+.footer nav a:hover {
+    text-decoration: underline;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .content {
+        grid-template-areas: 
+            "main"
+            "sidebar"
+            "anchors";
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .sidebar,
+    .anchors {
+        border: none;
+        padding: 1rem;
+        background: white;
+        border-radius: 2px;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+    
+    .footer nav ul {
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
+
+/* Melhorias de Acessibilidade */
+a:focus,
+button:focus {
+    outline: 2px solid #36c;
+    outline-offset: 2px;
+}
+
+.skip-link {
+    position: absolute;
+    top: -40px;
+    left: 6px;
+    background: #36c;
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+    z-index: 100;
+}
+
+.skip-link:focus {
+    top: 6px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    body {
+        background: white;
+        color: black;
+    }
+    
+    .main {
+        background: white;
+        border: 2px solid black;
+    }
+}
